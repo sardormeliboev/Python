@@ -56,4 +56,4 @@ print("Min value:", min(tup_vals))
 words = ("one", "two", "three")
 reversed_tuple = words[::-1]
 print("Reversed Tuple:", reversed_tuple)
-
+noto'g'ri homework o'chirildi
